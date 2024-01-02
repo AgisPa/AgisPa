@@ -23,3 +23,4 @@ Welcome to my corner of the coding cosmos! 🌌 I'm a theoretical physics explor
 📫 How to Reach Me
 
     Connect with me here on GitHub or drop a message on LinkedIn!
+
