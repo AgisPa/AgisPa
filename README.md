@@ -1,16 +1,25 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**AgisPa/AgisPa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of the coding cosmos! 🌌 I'm a theoretical physics explorer and code enthusiast with a Master's degree, chilling and continuously learning.
+🔭 Currently Exploring
 
-Here are some ideas to get you started:
+    Financial markets 📈
+    Trend analysis 📊
+    Crafting popularity calculators using OpenAI 🤖
+    Diving into AI and machine learning projects 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+
+    PyTorch for some extra code wizardry ✨
+
+👯 Looking to Collaborate On
+
+    Anything at the intersection of finance, coding, and AI! 🚀
+
+💬 Ask Me About
+
+    Nuclear physics, algorithms, or any coding mysteries you're trying to crack 🔍
+
+📫 How to Reach Me
+
+    Connect with me here on GitHub or drop a message on LinkedIn!
