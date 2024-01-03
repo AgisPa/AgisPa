@@ -1,6 +1,4 @@
-# Hi there! 👋
-
-Welcome to my coding universe! 🌌
+# Welcome to my profile!
 
 ## 🚀 Currently Exploring
 - Financial markets 📈
@@ -15,7 +13,16 @@ Welcome to my coding universe! 🌌
 - Anything at the intersection of finance, coding, and AI! 🚀
 
 ## 💬 Ask Me About
-- Nuclear physics, algorithms, or any coding mysteries you're trying to crack 🔍
+- Physics, mathematics or any coding mysteries you're trying to crack 🔍
 
 ## 📫 How to Reach Me
 - Connect with me here on GitHub or drop a message on [LinkedIn](https://www.linkedin.com/in/yourlink/)!
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgisPa&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AgisPa&theme=dracula)     ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AgisPa&theme=dracula&utcOffset=8) 
+
+
+
+
+![](https://komarev.com/ghpvc/?username=your-github-AgisPa&style=flat-square)
