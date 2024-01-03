@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-## 🚀 Currently Exploring
+## 🚀 Latest Explorations
 - Financial markets 📈
 - Trend analysis 📊
 - Crafting popularity calculators using OpenAI 🤖
@@ -10,10 +10,10 @@
 - PyTorch for some extra code wizardry ✨
 
 ## 👯 Looking to Collaborate On
-- Anything at the intersection of finance, coding, and AI! 🚀
+- Anything at the intersection of mathematics, physics, coding and AI! 🚀
 
 ## 💬 Ask Me About
-- Physics, mathematics or any coding mysteries you're trying to crack 🔍
+- Any coding mysteries you're trying to crack 🔍
 
 ## 📫 How to Reach Me
 - Connect with me here on GitHub or drop a message on [LinkedIn](https://www.linkedin.com/in/yourlink/)!
